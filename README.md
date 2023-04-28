@@ -10,9 +10,5 @@ The data for this project was obtained from the Kaggle chest x-ray dataset, it w
 ## Model
 The model used in this project is a Convolutional neural network, it was trained on the dataset in order to classify chest x-ray images as either Normal or Pneumonia.
 
-## Usage 
-1- Acces Google Colab and download the Kaggle API from kaggle/account to upload the dataset.
-2- Run the code in the provided Colaboratory notebook to train the model and make prediction on new chest x-ray images.
-
 ## Result
 The trained model achieved an accuracy of 80% on the test set. The evaluation metrics, including precision, recall, are reported in the Model Evaluation directory.
