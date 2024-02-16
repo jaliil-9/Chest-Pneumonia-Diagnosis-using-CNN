@@ -2,7 +2,7 @@
 This project uses a Convolutional Neural Network (CNN) to diagnose chest pneumonia using chest x-ray images. The model was trained on te Kaggle chest x-ray dataset and was developped using Google Colaboratory.
 
 ## About me
-i am a computer science engineer specialized in data science and machine learning, I offer my services on Fiverr. you can check out my gig [here] (https://www.fiverr.com/jalilb_/build-machine-learning-deep-learning-projects-with-python)
+i am a computer science engineer specialized in data science and machine learning, I offer my services on 'Upwork' and 'Freelancer'. you can check out my profile [https://www.freelancer.com/u/jalilb9] [https://www.upwork.com/freelancers/~01c41cc0b08423ddb3]
 
 ## Data
 The data for this project was obtained from the Kaggle chest x-ray dataset, it was uploaded to google colab using the Kaggle API.
